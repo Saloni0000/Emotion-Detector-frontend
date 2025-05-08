@@ -2,4 +2,4 @@
 
 link : https://saloni0000.github.io/Emotion-Detector-frontend/
 
-![Description](https://raw.githubusercontent.com/saloni0000/Emotion-Detector-frontend/main/path/to/image.jpg)
+![Description](https://github.com/Saloni0000/Emotion-Detector-frontend/blob/main/image.png)
